@@ -6,3 +6,4 @@ This is an example of how issue can formatted with markdown
 - Nasi goreng
 - Red
 - Learning new things everyday!
+- This bio now created locally with git bash on Windows!
